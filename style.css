@@ -3,11 +3,18 @@ body {
 }
 
 .img {
+    width: 80%;
+    height: 90%;
+}
+
+#jumbotron {
     width: 100%;
-    height: 100%;
+    height: 60%;
+    margin: 0;
+    padding: 0;
 }
 
 .hero {
-    height: 30%;
+    height: 20%;
     width: 100%;
 }
